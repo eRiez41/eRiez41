@@ -2,8 +2,6 @@
 
 ### A Tech Enthusiast!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eRiez41" alt="eRiez41" /></a> </p>
-
 - 🔭 I'M OPEN TO WORK!! **
 
 - 🌱 I'm currently learning **Ruby And Go**
