@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://github.com/eRiez41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eRiez41" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/deristiana-purtiwan-001506145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deristiana-purtiwan-001506145/" height="30" width="40" /></a>
-<a href="https://fb.com/https://facebook.com/eriez.thianz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/eriez.thianz" height="30" width="40" /></a>
+<a href="https://fb.com/eriez.thianz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/eriez.thianz" height="30" width="40" /></a>
 <a href="https://instagram.com/@eriezpurtiwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@eriezpurtiwan" height="30" width="40" /></a>
 </p>
 
