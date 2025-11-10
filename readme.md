@@ -2,11 +2,9 @@
 
 ### A Tech Enthusiast!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eRiez41&label=Profile views&color=0e75b6&style=flat" alt="eRiez41" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eRiez41" alt="eRiez41" /></a> </p>
 
-- 🔭 I'm currently working on **My Own Company, Ez Tech **
+- 🔭 I'M OPEN TO WORK!! **
 
 - 🌱 I'm currently learning **Ruby And Go**
 
