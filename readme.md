@@ -7,21 +7,16 @@
 
 <br>
 
-<div align="center">
-<table border="0" cellpadding="0" cellspacing="0" width="95%" style="border-collapse: collapse; margin: auto;">
-  <tr>
-    <td width="55%" valign="middle" align="center" style="border: none; padding-right: 15px;">
-      <a href="https://github.com/eRiez41">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eRiez41/eRiez41/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eRiez41/eRiez41/output/github-contribution-grid-snake.svg">
-          <img width="100%" src="https://raw.githubusercontent.com/eRiez41/eRiez41/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-        </picture>
-      </a>
-    </td>
+<div>
+  <a href="https://github.com/eRiez41">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eRiez41/eRiez41/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eRiez41/eRiez41/output/github-contribution-grid-snake.svg">
+      <img align="left" width="55%" src="https://raw.githubusercontent.com/eRiez41/eRiez41/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+    </picture>
+  </a>
 
-    <td width="45%" valign="middle" style="border: none;">
-      <pre style="font-family: monospace, monospace; text-align: left;">
+  <pre>
 <span style="color: #79c0ff;">deristiana</span>@<span style="color: #d2a8ff;">github</span>
 -------------------
 <b>OS</b>      : Tech Enthusiast v2.0
@@ -32,11 +27,8 @@
 <b>Status</b>  : 🟢 Open to Work
 <b>Project</b> : <a href="https://eRiez41.github.io/myPortofolio">My Portfolio</a>
 </pre>
-    </td>
-  </tr>
-</table>
 </div>
-<br><br>
+<br clear="left"/> <br>
 
 <div align="center">
   <h3>🛠 Languages and Tools</h3>
@@ -53,5 +45,6 @@
   <a href="https://instagram.com/eriezpurtiwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
   
   <br><br>
-  <p>📫 How to reach me: <b>eriezpurtiwan03@gmail.com</b></p>
+  
+  <p align="center">📫 How to reach me: <b>eriezpurtiwan03@gmail.com</b></p>
 </div>
