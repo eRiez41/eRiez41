@@ -12,6 +12,15 @@
 
 - 👨‍💻 All of my projects are available at **[https://eRiez41.github.io/myPortofolio](https://eRiez41.github.io/myPortofolio)**
 
+- <h3 align="left">My Contributions:</h3>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eRiez41/eRiez41/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eRiez41/eRiez41/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eRiez41/eRiez41/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/eRiez41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eRiez41" height="30" width="40" /></a>
